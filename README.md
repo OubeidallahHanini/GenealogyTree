@@ -3,8 +3,8 @@ https://dbdiagram.io/d/67832cde6b7fa355c399cc4c le lien de ma conception de la b
 
 Le travail se trouve sur la branche Master.
 
-
-2) dans le système crée les utilisateur peuvent proposer des modifications ou suggéerer des nouvelles connexions entre les familles du coup les données evoluent soit
+Question2 du test)
+   dans le système crée les utilisateur peuvent proposer des modifications ou suggéerer des nouvelles connexions entre les familles du coup les données evoluent soit
    - en créant une proposition en proposant une modification --> novelle ligne dans la table proposition avec l'id ou de la relation , et toujours une initialisation faite sur les approba et le rejet
    - en enregistrement des réponses aux propositions puisque les membre de la communauté ils peuvent rejeter ou approuver la propo une nouvelle ligne créer dans la table proposition_Response
 
